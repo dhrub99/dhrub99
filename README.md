@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dhrub99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dhruv Rathi
+- 👀 I’m interested in [please add whatever you are interested in]
+- 🌱 I’m currently learning [please 😅]
+- 💞️ I’m looking to collaborate on [my GitHub is full of projects, have a look]
+- 📫 Reach out to me on my email.
 
 <!---
 dhrub99/dhrub99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
